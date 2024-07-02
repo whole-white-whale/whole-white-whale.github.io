@@ -22,3 +22,7 @@ canvas {
 #map {
   background-image: url("map.png");
 }
+
+a {
+  color: #152a06;
+}
